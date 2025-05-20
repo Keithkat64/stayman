@@ -1,5 +1,5 @@
 {
-  "name": "1618stayman",
+  "name": "stayman",
   "version": "1.0.0",
   "type": "module",
   "main": "index.mjs",
@@ -7,6 +7,6 @@
     "start": "node index.mjs"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^4.18.2"
   }
 }
